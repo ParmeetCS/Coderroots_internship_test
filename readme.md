@@ -24,7 +24,7 @@
 - Built a classification model for heart disease prediction.
 - Performed preprocessing, model training, and evaluation.
 
-### Section 3: Natural Language Processing
+### Section 3: Natural Language Processing (NLP)
 - Cleaned the text and converted it into numerical form using TF-IDF.
 
 
