@@ -5,6 +5,7 @@
 - Matplotlib
 - sklearn
 - Numpy
+- seaborn 
 ### Datasets are available in-
 - dataset folder
 ### Main Code and answers to questions are available in-
